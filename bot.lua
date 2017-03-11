@@ -23,6 +23,13 @@ local sound_commands = {
   ["!zamene"] = "sounds/zamene.ogg",
   ["!hihi"] = "sounds/hihi.ogg",
   ["!vrag"] = "sounds/vrag.ogg",
+  ["!mat"] = "sounds/matematika.ogg",
+  ["!lenoba"] = "sounds/lenoba.ogg",
+  ["!vecer"] = "sounds/vecer.ogg",
+  ["!sove"] = "sounds/sove.ogg",
+  ["!takoj"] = "sounds/takoj.ogg",
+  ["!samota"] = "sounds/samota.ogg",
+  ["!pes"] = "sounds/pes.ogg",
 }
 
 client:on('ready', function ()
